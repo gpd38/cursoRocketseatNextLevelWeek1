@@ -41,6 +41,12 @@ build/Release
 node_modules/
 jspm_packages/
 
+# Private
+extras
+pagina_web
+temp
+video_aula
+
 # TypeScript v1 declaration files
 typings/
 
