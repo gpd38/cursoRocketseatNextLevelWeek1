@@ -46,6 +46,10 @@ extras
 pagina_web
 temp
 video_aula
+forum
+
+# DBA
+*.sqlite
 
 # TypeScript v1 declaration files
 typings/
