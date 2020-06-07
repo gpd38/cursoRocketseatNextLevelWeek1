@@ -11,3 +11,18 @@ Projeto desenvolvido durante a Next Level Week organizada pela Rocketseat. O pro
    - [x] Aula04 - Até 2 anos em 2 meses | NLW#1 Booster
    - [x] Aula05 - A milha extra | NLW#1 Booster
 
+### Tecnologia
+
+   - JS
+   - HTML
+   - CSS
+   - Node
+   - React
+   
+### Layout
+
+[Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
+
+<div align="center">
+    <img alt="Layout" title="#Layout" src="https://github.com/gpd38/cursoRocketseatNextLevelWeek/blob/master/web/src/assets/capa.svg" width="100%" />
+</div>
